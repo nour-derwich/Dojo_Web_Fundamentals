@@ -1,6 +1,6 @@
 # WELCOME TO INSTRUCTOR WAEL'S GITHUB REPO
 
-## This branch contains lecture and demo code for the month of September 2022
+## This branch contains lecture and demo code for the month of October 2022
 
 ### This repo contains all code I have written during class time
 
